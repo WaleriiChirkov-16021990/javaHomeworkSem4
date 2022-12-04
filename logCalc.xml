@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-04T10:46:12.374273200Z</date>
+  <millis>1670150772374</millis>
+  <nanos>273200</nanos>
+  <sequence>0</sequence>
+  <logger>calculatorVersion3</logger>
+  <level>INFO</level>
+  <class>calculatorVersion3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>калькулятор запущен.</message>
+</record>
+<record>
+  <date>2022-12-04T10:46:16.674932300Z</date>
+  <millis>1670150776674</millis>
+  <nanos>932300</nanos>
+  <sequence>1</sequence>
+  <logger>calculatorVersion3</logger>
+  <level>INFO</level>
+  <class>calculatorVersion3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>пользователь ввел 1</message>
+</record>
+<record>
+  <date>2022-12-04T10:46:17.968933300Z</date>
+  <millis>1670150777968</millis>
+  <nanos>933300</nanos>
+  <sequence>2</sequence>
+  <logger>calculatorVersion3</logger>
+  <level>INFO</level>
+  <class>calculatorVersion3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>пользователь ввел первое число 4.0</message>
+</record>
+<record>
+  <date>2022-12-04T10:46:18.537472Z</date>
+  <millis>1670150778537</millis>
+  <nanos>472000</nanos>
+  <sequence>3</sequence>
+  <logger>calculatorVersion3</logger>
+  <level>INFO</level>
+  <class>calculatorVersion3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>пользователь ввел второе число 5.0</message>
+</record>
+<record>
+  <date>2022-12-04T10:46:18.538475900Z</date>
+  <millis>1670150778538</millis>
+  <nanos>475900</nanos>
+  <sequence>4</sequence>
+  <logger>calculatorVersion3</logger>
+  <level>INFO</level>
+  <class>calculatorVersion3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>пользователь получил результат '9.0'</message>
+</record>
+<record>
+  <date>2022-12-04T10:46:18.539477200Z</date>
+  <millis>1670150778539</millis>
+  <nanos>477200</nanos>
+  <sequence>5</sequence>
+  <logger>calculatorVersion3</logger>
+  <level>INFO</level>
+  <class>calculatorVersion3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>текущая история результатов '[9.0]'</message>
+</record>
+<record>
+  <date>2022-12-04T10:46:28.901153800Z</date>
+  <millis>1670150788901</millis>
+  <nanos>153800</nanos>
+  <sequence>6</sequence>
+  <logger>calculatorVersion3</logger>
+  <level>INFO</level>
+  <class>calculatorVersion3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>пользователь ввел 4</message>
+</record>
+<record>
+  <date>2022-12-04T10:46:29.509155200Z</date>
+  <millis>1670150789509</millis>
+  <nanos>155200</nanos>
+  <sequence>7</sequence>
+  <logger>calculatorVersion3</logger>
+  <level>INFO</level>
+  <class>calculatorVersion3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>пользователь ввел второе число 3.0</message>
+</record>
+<record>
+  <date>2022-12-04T10:46:29.510158300Z</date>
+  <millis>1670150789510</millis>
+  <nanos>158300</nanos>
+  <sequence>8</sequence>
+  <logger>calculatorVersion3</logger>
+  <level>INFO</level>
+  <class>calculatorVersion3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>пользователь получил результат '3.0'</message>
+</record>
+<record>
+  <date>2022-12-04T10:46:29.510158300Z</date>
+  <millis>1670150789510</millis>
+  <nanos>158300</nanos>
+  <sequence>9</sequence>
+  <logger>calculatorVersion3</logger>
+  <level>INFO</level>
+  <class>calculatorVersion3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>текущая история результатов '[9.0, 3.0]'</message>
+</record>
+<record>
+  <date>2022-12-04T10:47:28.686449700Z</date>
+  <millis>1670150848686</millis>
+  <nanos>449700</nanos>
+  <sequence>10</sequence>
+  <logger>calculatorVersion3</logger>
+  <level>INFO</level>
+  <class>calculatorVersion3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>пользователь ввел 6</message>
+</record>
+<record>
+  <date>2022-12-04T10:47:28.687455800Z</date>
+  <millis>1670150848687</millis>
+  <nanos>455800</nanos>
+  <sequence>11</sequence>
+  <logger>calculatorVersion3</logger>
+  <level>INFO</level>
+  <class>calculatorVersion3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>пользователь отменил последний результат 3.0</message>
+</record>
+<record>
+  <date>2022-12-04T10:47:28.688456400Z</date>
+  <millis>1670150848688</millis>
+  <nanos>456400</nanos>
+  <sequence>12</sequence>
+  <logger>calculatorVersion3</logger>
+  <level>INFO</level>
+  <class>calculatorVersion3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>текущая история результатов '[9.0]'</message>
+</record>
+<record>
+  <date>2022-12-04T10:47:36.744942800Z</date>
+  <millis>1670150856744</millis>
+  <nanos>942800</nanos>
+  <sequence>13</sequence>
+  <logger>calculatorVersion3</logger>
+  <level>INFO</level>
+  <class>calculatorVersion3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>пользователь ввел 7</message>
+</record>
+<record>
+  <date>2022-12-04T10:47:36.745948Z</date>
+  <millis>1670150856745</millis>
+  <nanos>948000</nanos>
+  <sequence>14</sequence>
+  <logger>calculatorVersion3</logger>
+  <level>INFO</level>
+  <class>calculatorVersion3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>пользователь очистил историю результатов [9.0]</message>
+</record>
+<record>
+  <date>2022-12-04T10:47:45.526240100Z</date>
+  <millis>1670150865526</millis>
+  <nanos>240100</nanos>
+  <sequence>15</sequence>
+  <logger>calculatorVersion3</logger>
+  <level>INFO</level>
+  <class>calculatorVersion3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>пользователь ввел 4</message>
+</record>
+<record>
+  <date>2022-12-04T10:47:47.358771400Z</date>
+  <millis>1670150867358</millis>
+  <nanos>771400</nanos>
+  <sequence>16</sequence>
+  <logger>calculatorVersion3</logger>
+  <level>INFO</level>
+  <class>calculatorVersion3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>пользователь ввел первое число 3.0</message>
+</record>
+<record>
+  <date>2022-12-04T10:47:48.132771600Z</date>
+  <millis>1670150868132</millis>
+  <nanos>771600</nanos>
+  <sequence>17</sequence>
+  <logger>calculatorVersion3</logger>
+  <level>INFO</level>
+  <class>calculatorVersion3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>пользователь ввел второе число 0.0</message>
+</record>
+<record>
+  <date>2022-12-04T10:47:48.132771600Z</date>
+  <millis>1670150868132</millis>
+  <nanos>771600</nanos>
+  <sequence>18</sequence>
+  <logger>calculatorVersion3</logger>
+  <level>WARNING</level>
+  <class>calculatorVersion3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>пользователь пытается делить на '0.0'</message>
+</record>
+</log>
